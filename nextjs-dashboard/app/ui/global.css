@@ -1,7 +1,12 @@
+/* Tailwindディレクティブを使うことで */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* 
+  Global styles
+  アプリケーション全体にスタイルを適用したい場合はこのファイルを編集する
+*/
 input[type='number'] {
   -moz-appearance: textfield;
   appearance: textfield;

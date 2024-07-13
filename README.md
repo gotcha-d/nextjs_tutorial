@@ -14,8 +14,8 @@
 ### 3章　Optimizing Fonts and Images
 - fontモジュール
 - Imgコンポーネント
-- 
-
+### Creating Layouts and Pages
+- layout.tsx
 ## 特徴
 - ファイルシステムルーティング
   - 新しいページを作りたいときは、フォルダをきって配下にpage.tsxを書く。

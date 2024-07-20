@@ -28,6 +28,8 @@
 ### 7章
 - Data Fetch
 - React Server Components
+### 8章
+- StaticRendering
 ## 特徴
 - ファイルシステムルーティング
   - 新しいページを作りたいときは、フォルダをきって配下にpage.tsxを書く。

@@ -30,6 +30,9 @@
 - React Server Components
 ### 8章
 - StaticRendering
+### 9章
+- loading.tsx
+- ルートグループ
 ## 特徴
 - ファイルシステムルーティング
   - 新しいページを作りたいときは、フォルダをきって配下にpage.tsxを書く。
@@ -53,3 +56,8 @@
   - client component
 - 7章
   - server component
+- 9章
+  - streaming
+    - ストリーミングによって、遅いデータ・リクエストがページ全体をブロックするのを防ぐことができます。 これにより、UIがユーザーに表示される前にすべてのデータがロードされるのを待つことなく、ユーザーはページの一部を見て操作することができます。
+      - loading.tsx ファイル名で探しに行くっぽい
+  - React Suspense

@@ -25,7 +25,9 @@
 ### 6章
 - vercelへデプロイ
   - mainブランチにpushすると自動的に再デプロイされる
-
+### 7章
+- Data Fetch
+- React Server Components
 ## 特徴
 - ファイルシステムルーティング
   - 新しいページを作りたいときは、フォルダをきって配下にpage.tsxを書く。
@@ -42,8 +44,10 @@
 - Linkコンポーネント('next/link')
   - Next.jsはルートセグメントごとにコードを自動的に分割します
   - 旧来のReactに代表されるSPAの手法との違い
-  
+- Server Component
 ## 後で調べる
 - 5章
   - prefetch
   - client component
+- 7章
+  - server component

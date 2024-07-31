@@ -35,6 +35,8 @@
 - ルートグループ
 ## 10章
 - Partial Prerendering(PPR)
+## 11章
+- Adding Search and Pagination
 ## 特徴
 - ファイルシステムルーティング
   - 新しいページを作りたいときは、フォルダをきって配下にpage.tsxを書く。
